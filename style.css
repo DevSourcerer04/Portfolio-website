@@ -38,7 +38,7 @@ body {
   transition: 0.3s ease;
 }
 .navbar:hover {
-  background-color: #393644;
+  background-color: #0e0043;
   color: #ffffff;
 }
 .logo {
