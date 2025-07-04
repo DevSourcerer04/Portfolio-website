@@ -31,7 +31,7 @@ body {
   justify-content: space-between;
   align-items: center;
   padding: 1rem 2rem;
-  background-color: #111111;
+  background-color: #00d0ff;
   position: sticky;
   top: 0;
   z-index: 1000;
@@ -44,7 +44,7 @@ body {
 .logo {
   font-size: 1.5rem;
   font-weight: bold;
-  color: #ffffff;
+  color: #cedc02;
 }
 .nav-right {
   display: flex;
@@ -57,7 +57,7 @@ body {
   gap: 1.5rem;
 }
 .nav-links li a {
-  color: #fff;
+  color: #0dc526f8;
   text-decoration: none;
   position: relative;
 }
@@ -77,8 +77,8 @@ body {
 
 /* Theme toggle */
 .theme-toggle {
-  background: #fbbc05;
-  color: #000;
+  background: #1a00de;
+  color: #fb7d7d;
   border: none;
   padding: 5px 12px;
   border-radius: 20px;
@@ -88,8 +88,8 @@ body {
   transition: 0.3s ease;
 }
 .theme-toggle:hover {
-  background: #000000;
-  color: #fbbc05;
+  background: #fb7d7d;
+  color: #1a00de;
 }
 
 /* Hero */
