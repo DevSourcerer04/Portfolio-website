@@ -7,9 +7,9 @@
 }
 
 body.light-mode {
-  --bg-color: #f8f8f8;
-  --text-color: #fbbc05;
-  --card-bg: #fff;
+  --bg-color: #a5abf0;
+  --text-color: #000000;
+  --card-bg: #d4ff00;
 }
 
 * {
@@ -20,8 +20,8 @@ body.light-mode {
 }
 
 body {
-  background: var(--bg-color);
-  color: var(--text-color);
+  background: #0440c3;
+  color: #e0f903;
   transition: 0.3s ease;
 }
 
@@ -164,7 +164,7 @@ h2 {
 }
 .card {
   background: #8e8cea;
-  color: #00ff77;
+  color: #000000;
   padding: 2rem;
   width: 260px;
   border-radius: 10px;
